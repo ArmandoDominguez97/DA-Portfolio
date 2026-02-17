@@ -1,6 +1,6 @@
 # DA-Portfolio
 
-# [Project 1: Global C0~2 Emissions Analysis](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis)
+# [Project 1: Global CO~2 Emissions Analysis](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis)
 
 This project was completed through the COOP Careers Data Analytics Fellowship.
 Collaborators: Jiewen Huang, Kevin Elshemy, Hawa Kora
